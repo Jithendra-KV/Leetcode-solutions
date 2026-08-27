@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
