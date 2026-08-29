@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
