@@ -30,6 +30,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithendra-KV/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
